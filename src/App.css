@@ -1,0 +1,27 @@
+.App {
+    background-color: yellow;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-top: 25pt;
+    max-width: 50%;
+    margin-left: 25%;
+}
+
+.App button {
+    background-color: cyan;
+    border: black;
+    border-radius: 15pt;
+    margin: 10pt;
+    padding: 5pt;
+    color: white;
+    font-weight: 900;
+}
+
+.App li {
+    text-align: center;
+    list-style: none;
+    font-size: large;
+}
